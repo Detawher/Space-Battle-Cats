@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_ar",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.892857,
+  "name":"snd_ar",
+  "parent":{
+    "name":"SFX adicionais",
+    "path":"folders/Sons/SFX/SFX adicionais.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ar.ogg",
+  "type":0,
+  "volume":0.7,
+}

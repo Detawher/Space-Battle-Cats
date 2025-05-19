@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scpt_approach",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scpt_approach",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

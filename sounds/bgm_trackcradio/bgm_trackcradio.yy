@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_trackcradio",
+  "audioGroupId":{
+    "name":"audiogroup_music",
+    "path":"audiogroups/audiogroup_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":173.59998,
+  "name":"bgm_trackcradio",
+  "parent":{
+    "name":"Musica",
+    "path":"folders/Sons/Musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_trackcradio.wav",
+  "type":1,
+  "volume":0.3,
+}

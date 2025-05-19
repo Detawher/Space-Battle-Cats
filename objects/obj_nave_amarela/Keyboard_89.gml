@@ -1,0 +1,1 @@
+perde_vida(vida);

@@ -1,0 +1,1 @@
+other.perde_vida(3);

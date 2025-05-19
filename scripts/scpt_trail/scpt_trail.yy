@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scpt_trail",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scpt_trail",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

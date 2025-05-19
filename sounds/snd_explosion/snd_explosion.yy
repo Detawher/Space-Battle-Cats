@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_explosion",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.330363,
+  "name":"snd_explosion",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/Sons/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_explosion.ogg",
+  "type":0,
+  "volume":0.5,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scpt_textos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scpt_textos",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

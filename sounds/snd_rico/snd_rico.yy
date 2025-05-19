@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_rico",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.241,
+  "name":"snd_rico",
+  "parent":{
+    "name":"SFX adicionais",
+    "path":"folders/Sons/SFX/SFX adicionais.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_rico.wav",
+  "type":0,
+  "volume":0.4,
+}

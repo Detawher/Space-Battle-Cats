@@ -1,0 +1,1 @@
+game_enable_view_port();

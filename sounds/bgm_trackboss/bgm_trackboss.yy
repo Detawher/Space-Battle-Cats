@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_trackboss",
+  "audioGroupId":{
+    "name":"audiogroup_music",
+    "path":"audiogroups/audiogroup_music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":92.19998,
+  "name":"bgm_trackboss",
+  "parent":{
+    "name":"Musica",
+    "path":"folders/Sons/Musica.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_trackboss.wav",
+  "type":1,
+  "volume":0.2,
+}

@@ -1,0 +1,1 @@
+instance_create_layer(x-500, y-500, "Superior", nome_cutscene);
